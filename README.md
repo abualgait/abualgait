@@ -12,10 +12,10 @@
 <br />
 <br />
 
-Hi, I'm Muhammad Sayed, Mobile App Developer 📱 both native (Android,iOS) and cross platform (Flutter) , Currently working as a Android app developer  [@TechGrowth](https://techgrowthkw.com/) ;
+Hi, I'm Muhammad Sayed, Mobile App Developer 📱 both native (Android,iOS) and cross platform (Flutter) , Currently working as a Android app developer.
  
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning iOS
+- 🔭 I’m currently working with Android
+- 🌱 I’m currently learning Flutter
 - 📱 Android Developer 
 - 💻 Technology enthusiast
 - 📫 You can reach me on : abualgaitad@gmail.com
