@@ -11,14 +11,26 @@
 </a>
 <br />
 <br />
-
-Hi, I'm Muhammad Sayed, Mobile App Developer 📱 both native (Android,iOS) and cross platform (Flutter) , Currently working as a Android app developer.
  
-- 🔭 I’m currently working with Android
-- 🌱 I’m currently learning Flutter
-- 📱 Android Developer 
-- 💻 Technology enthusiast
-- 📫 You can reach me on : abualgaitad@gmail.com
+👋 Hello! I'm Muhammad Sayed,
 
- 
+✨ 15+ amazing projects.
+📱 5+ years of experience in native Android apps.
+🎓 Bachelor degree in Computer Science.
+
+🚀 Results-driven Senior Android Developer with 5+ years of hands-on experience creating innovative mobile applications. Expert in Kotlin, Java, MVVM architecture, Koin, Hilt, coroutine, RxJava, and Jetpack. Proven track record leading development for premium household shopping, delivery systems, and inventory apps. Collaborative team player with a knack for learning quickly and solving complex problems. Fluent in Arabic and English. Let's connect and discuss how I can contribute to your team's success! 🌐
+
+🌟Domains:
+E-Commerce · Health · Sales · Sports · Media
+
+🌟Key skills:
+Android · Kotlin Coroutines · Kotlin · Git · Dependency Injection · Dependency Injection · Software Design Patterns · Inter-process Communication · Requirements Gathering · Continuous Integration (CI) · Skill Development · Gradle · Mobile Application Design · Bitbucket · Version Control · API Development · Android · Android Development · Google Analytics · Fastlane · Bitrise · Hilt · Compose UI · MVVM · Design Patterns · Material Design · Crashlytics . UI design.
+
+🌟Availability:
+I am available for full-time or part-time work, depending on the project requirements. Feel free to contact me to discuss your project and requirements.
+
+🌟Language:
+English (Fluent) · Arabic (Native)
+
+
 
