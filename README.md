@@ -1,4 +1,6 @@
-### Hi there 👋
+
+ ![Group 4995](https://github.com/abualgait/abualgait/assets/38107393/f24a107a-334b-437f-b176-245589e318eb)
+
 
    <a href="https://twitter.com/abualgaittwitt">
   <img align="left" alt="Muhammad Sayed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -24,7 +26,7 @@
 E-Commerce · Health · Sales · Sports · Media
 
 🌟Key skills:
-Android · Kotlin Coroutines · Kotlin · Git · Dependency Injection · Dependency Injection · Software Design Patterns · Inter-process Communication · Requirements Gathering · Continuous Integration (CI) · Skill Development · Gradle · Mobile Application Design · Bitbucket · Version Control · API Development · Android · Android Development · Google Analytics · Fastlane · Bitrise · Hilt · Compose UI · MVVM · Design Patterns · Material Design · Crashlytics . UI design.
+Android · Kotlin Coroutines · Kotlin · Git · Dependency Injection · Dependency Injection · Software Design Patterns · Inter-process Communication · Requirements Gathering · Continuous Integration (CI) · Skill Development · Gradle · Mobile Application Design · Bitbucket · Version Control · API Development · Android · Android Development · Google Analytics · Fastlane · Bitrise · Hilt · Compose UI · MVVM · MVI · Solid · Modular · Design Patterns · Material Design · Crashlytics . UI design.
 
 🌟Availability:
 I am available for full-time or part-time work, depending on the project requirements. Feel free to contact me to discuss your project and requirements.
