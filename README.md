@@ -23,7 +23,7 @@
 🚀 Results-driven Senior Android Developer with 5+ years of hands-on experience creating innovative mobile applications. Expert in Kotlin, Java, MVVM architecture, Koin, Hilt, coroutine, RxJava, and Jetpack. Proven track record leading development for premium household shopping, delivery systems, and inventory apps. Collaborative team player with a knack for learning quickly and solving complex problems. Fluent in Arabic and English. Let's connect and discuss how I can contribute to your team's success! 🌐
 
 🌟Domains:
-E-Commerce · Health · Sales · Sports · Media
+Ride-Hailing . E-Commerce · Health · Sales · Sports · Media
 
 🌟Key skills:
 Android · Kotlin Coroutines · Kotlin · Git · Dependency Injection · Dependency Injection · Software Design Patterns · Inter-process Communication · Requirements Gathering · Continuous Integration (CI) · Skill Development · Gradle · Mobile Application Design · Bitbucket · Version Control · API Development · Android · Android Development · Google Analytics · Fastlane · Bitrise · Hilt · Compose UI · MVVM · MVI · Solid · Modular · Design Patterns · Material Design · Crashlytics . UI design.
