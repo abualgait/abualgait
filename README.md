@@ -17,10 +17,10 @@
 👋 Hello! I'm Muhammad Sayed,
 
 ✨ 15+ amazing projects.
-📱 5+ years of experience in native Android apps.
+📱 6+ years of experience in native Android apps.
 🎓 Bachelor degree in Computer Science.
 
-🚀 Results-driven Senior Android Developer with 5+ years of hands-on experience creating innovative mobile applications. Expert in Kotlin, Java, MVVM architecture, Koin, Hilt, coroutine, RxJava, and Jetpack. Proven track record leading development for premium household shopping, delivery systems, and inventory apps. Collaborative team player with a knack for learning quickly and solving complex problems. Fluent in Arabic and English. Let's connect and discuss how I can contribute to your team's success! 🌐
+🚀 Results-driven Senior Android Developer with 6+ years of hands-on experience creating innovative mobile applications. Expert in Kotlin, Java, MVVM architecture, Koin, Hilt, coroutine, RxJava, and Jetpack. Proven track record leading development for premium household shopping, delivery systems, and inventory apps. Collaborative team player with a knack for learning quickly and solving complex problems. Fluent in Arabic and English. Let's connect and discuss how I can contribute to your team's success! 🌐
 
 🌟Domains:
 Ride-Hailing . E-Commerce · Health · Sales · Sports · Media
